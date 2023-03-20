@@ -1,2 +1,2 @@
 # CSS-MySite
-General CSS Practise
+CSS Practise positioning, margings, font styling, display, float etc...
